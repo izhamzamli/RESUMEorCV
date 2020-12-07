@@ -1,8 +1,3 @@
-#
-# still progressing
-#
-
-
 <h1>about
 
 <h1>experiences
