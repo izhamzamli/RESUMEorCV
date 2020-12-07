@@ -3,5 +3,5 @@
 
 <h1>about
 
-<h2>experiences
-<h3>education
+<h1>experiences
+<h1>education
